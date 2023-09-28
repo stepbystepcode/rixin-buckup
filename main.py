@@ -9,8 +9,7 @@ from docx.oxml.ns import qn
 from docx.shared import Pt, RGBColor, Inches
 
 headers = {
-    "cookie": "annual_review_dialog=1; appmsglist_action_3560768122=card; ua_id=JzziJdh2esM8EU9hAAAAALU5jdxtw7aQLoFJgRLcMWQ=; wxuin=66757941236123; mm_lang=zh_CN; pgv_pvid=5717267979; RK=YZvFr8ZdfS; ptcz=28a0e783516b4722c12400677fd060fc8623ad988a62b6aee79728b7d6d99dce; eas_sid=51g6J84315Q0k9Y2L9Q3x4p8c5; rand_info=CAESIH062iRIS4rSDkfiB5tVhiTUzL0eaFarFblqkoHkkwSt; slave_bizuin=3560768122; data_bizuin=3560768122; bizuin=3560768122; data_ticket=fLIs+KbpxrZRNWyhB4yinmzd4DypDyi6b3tFDEyRqEYpiH9YYDA6FOfZE2YcSuC9; slave_sid=d3VRdlROeG5WeUpXNzBDSnlVOUxzXzRDR3RWREJWNFhWMjBFc2FDTF9CcWhHcmpoSkVkRU9mU3BUbUpwS1dqbnM4TnNfY19fTzNidGk2RldlYUtNR2Z4c3Z1RXNtbURZTUZETVd1bERoU1FhaDZ5QzljVE1xOXB1YUpkM0kzMnpoU0l3czVENVpNSE5Rb2k0; slave_user=gh_474b17f39e3e; xid=e6842625736d71b6469efbbac3ef0b1a; _clck=3560768122|1|ffe|0; _clsk=jwmwze|1695864543564|2|1|mp.weixin.qq.com/weheat-agent/payload/record",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.43"
+
 }
 url = 'https://mp.weixin.qq.com/cgi-bin/appmsgpublish'
 
